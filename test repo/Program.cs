@@ -2,6 +2,8 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("hello eartt");
 var i = 0;
+var Boobeh = " boobeh";
+var piepop = 4;
 
 while (true) 
 {
